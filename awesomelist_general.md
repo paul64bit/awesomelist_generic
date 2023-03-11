@@ -6,3 +6,7 @@
 
 ## Machine learning
 * [HuggingFace models](https://huggingface.co/models) - the models from Huggingface
+
+## Hosting
+* [DigitalOcean Droplets](https://www.digitalocean.com/pricing/droplets) - DigitalOcean linux boxes
+* [Linode Dedicated](https://www.linode.com/pricing/) - Linode linux boxes
