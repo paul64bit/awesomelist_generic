@@ -21,3 +21,5 @@
 * [Awesome AI Residency](https://github.com/dangkhoasdc/awesome-ai-residency) - AI residency programs
 * [AIcyclopedia](https://www.aicyclopedia.com/) - a bit spammy, yet another list of AI resources..
 
+## Open Source Alternatives
+* [FossHub](https://www.fosshub.com) - Good overview of the open source landscape for windows
