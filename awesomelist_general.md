@@ -6,6 +6,7 @@
 
 ## Machine learning
 * [HuggingFace models](https://huggingface.co/models) - the models from Huggingface
+* https://replicate.com/  - calling models via APIs
 
 ## Hosting
 * [DigitalOcean Droplets](https://www.digitalocean.com/pricing/droplets) - DigitalOcean linux boxes
