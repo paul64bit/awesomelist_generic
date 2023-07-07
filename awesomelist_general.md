@@ -24,3 +24,6 @@
 
 ## Open Source Alternatives
 * [FossHub](https://www.fosshub.com) - Good overview of the open source landscape for windows
+
+## Sound and music
+* [Mofi](https://mofi.loud.red/) - Extends any song to any time.
